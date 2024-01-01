@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLivro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Livro>
+    <Id>0</Id>
+    <Nome>0</Nome>
+    <AnoLanc>0</AnoLanc>
+    <Paginas>0</Paginas>
+    <Preco>0</Preco>
+    <Nota>0</Nota>
+    <idautor>0</idautor>
+    <idcateg>0</idcateg>
+  </Livro>
+  <Livro>
+    <Id>1</Id>
+    <Nome>POO</Nome>
+    <AnoLanc>10</AnoLanc>
+    <Paginas>10</Paginas>
+    <Preco>10</Preco>
+    <Nota>10</Nota>
+    <idautor>2</idautor>
+    <idcateg>1</idcateg>
+  </Livro>
+</ArrayOfLivro>

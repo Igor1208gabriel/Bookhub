@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <Id>0</Id>
+    <Nome>Admin</Nome>
+    <Email>admin</Email>
+    <Senha>admin</Senha>
+    <LivrosFavoritos />
+  </Usuario>
+  <Usuario>
+    <Id>1</Id>
+    <Nome>Gio</Nome>
+    <Email>giovana</Email>
+    <Senha>giovana</Senha>
+    <LivrosFavoritos />
+  </Usuario>
+</ArrayOfUsuario>

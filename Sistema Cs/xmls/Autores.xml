@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAutor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Autor>
+    <Id>0</Id>
+    <Nome>Sem Autor</Nome>
+    <Anonasc>0</Anonasc>
+    <Nacionalidade>Sem Autor</Nacionalidade>
+    <Livrospublicados>
+      <int>1</int>
+      <int>1</int>
+    </Livrospublicados>
+  </Autor>
+  <Autor>
+    <Id>1</Id>
+    <Nome>Tonhao </Nome>
+    <Anonasc>1900</Anonasc>
+    <Nacionalidade>Frances</Nacionalidade>
+    <Livrospublicados>
+      <int>1</int>
+      <int>1</int>
+    </Livrospublicados>
+  </Autor>
+  <Autor>
+    <Id>2</Id>
+    <Nome>Giovana Barros</Nome>
+    <Anonasc>2000</Anonasc>
+    <Nacionalidade>Brasileira</Nacionalidade>
+    <Livrospublicados>
+      <int>1</int>
+    </Livrospublicados>
+  </Autor>
+</ArrayOfAutor>

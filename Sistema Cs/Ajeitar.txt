@@ -1,0 +1,8 @@
+Quebra o código:
+Ao cadastrar, senha pequena 
+~Marcar livro favorito
+
+
+Não quebra o código mas n funciona;
+~Listar Livro Favorito -> Não serializa pro xml
+~uma confusão total em cadastrar livro eu não sei o que tá rolando
